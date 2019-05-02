@@ -11,3 +11,6 @@ Some CAD files were built using imported other models and may not open well. Fin
 
 Demo Video:
 https://www.youtube.com/watch?v=iCPGeiSju6U
+
+SVG Source:
+https://annelsblog.blogspot.com/2010/06/for-friend-u-of-w-logo.html
